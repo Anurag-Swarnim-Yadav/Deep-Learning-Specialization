@@ -6,10 +6,10 @@
 
 
 ## Course1: Neural Networks and Deep Learning
-* Week-1
 * Week-2
 * Week-3
-* Week-4
+* Week-4a <href src='https://github.com/Anurag-Swarnim-Yadav/Deep-Learning-Specialization/blob/master/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step.ipynb'/>
+* Week-4b <href src='https://github.com/Anurag-Swarnim-Yadav/Deep-Learning-Specialization/blob/master/Deep%20Neural%20Network%20Application.ipynb' />
 
 
 
